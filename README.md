@@ -17,8 +17,8 @@ principles of the theme were described in a blog post
 
 Not convinced? Have a look at the [demo slides][].
 
-![Light Theme](https://github.com/e-tony/mtheme_stuttgart/tree/master/examples/light/theme.png)
-![Dark Theme](https://github.com/e-tony/mtheme_stuttgart/tree/master/examples/dark/theme.png)
+![Light Theme](https://github.com/e-tony/mtheme_stuttgart/blob/master/examples/light/theme.png)
+![Dark Theme](https://github.com/e-tony/mtheme_stuttgart/blob/master/examples/dark/theme.png)
 
 
 ## Installation
