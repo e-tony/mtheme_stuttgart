@@ -81,6 +81,9 @@
 \definecolor{mDarkTeal}{HTML}{23373b}
 \definecolor{mLightBrown}{HTML}{EB811B}
 \definecolor{mLightGreen}{HTML}{14B03D}
+\definecolor{mStuttgartDarkBlue}{HTML}{02418d}
+\definecolor{mStuttgartLightBlue}{HTML}{16befb}
+\definecolor{mOrange}{HTML}{fb5e16}
 %    \end{macrocode}
 %
 %
@@ -94,21 +97,21 @@
 \newcommand{\metropolis@colors@dark}{
   \setbeamercolor{normal text}{%
     fg=black!2,
-    bg=mDarkTeal
+    bg=mStuttgartDarkBlue
   }
   \usebeamercolor[fg]{normal text}
 }
 \newcommand{\metropolis@colors@light}{
   \setbeamercolor{normal text}{%
-    fg=mDarkTeal,
+    fg=mStuttgartDarkBlue,
     bg=black!2
   }
 }
 \setbeamercolor{alerted text}{%
-  fg=mLightBrown
+  fg=mOrange
 }
 \setbeamercolor{example text}{%
-  fg=mLightGreen
+  fg=mStuttgartLightBlue
 }
 %    \end{macrocode}
 %
@@ -154,9 +157,9 @@
 %
 %    \begin{macrocode}
 \setbeamercolor{progress bar}{%
-  use=alerted text,
-  fg=alerted text.fg,
-  bg=alerted text.fg!50!black!30
+  use=example text,
+  fg=example text.fg,
+  bg=example text.fg!50!black!30
 }
 \setbeamercolor{title separator}{
   use=progress bar,
