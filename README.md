@@ -15,7 +15,7 @@ offers is an (optional) progress bar added to each slide. The core design
 principles of the theme were described in a blog post
 [here](http://bloerg.net/2014/09/20/a-modern-beamer-theme.html).
 
-Not convinced? Have a look at the [demo slides][https://github.com/e-tony/mtheme_stuttgart/blob/master/demo/demo.pdf].
+Not convinced? Have a look at the [demo slides](https://github.com/e-tony/mtheme_stuttgart/blob/master/demo/demo.pdf).
 
 #### Light Theme
 ![Light Theme](https://github.com/e-tony/mtheme_stuttgart/blob/master/examples/light/theme.png)
